@@ -10,7 +10,7 @@ The consistent performance of the two node (1 DTx and 1 DRx; essentially a bi-di
 
 The current work provides a testbed to experiment with and enables creation of new MAC protocols starting from the fundamental IEEE 802.11b compliant standard.
 
-This work is supported by `MathWorks` under the **Development-Collaboration Research Grant**. We would like to thank Mike McLernon and Ethem Sozer for their continued support on this project. We would also like to thank Taylor Skilling for his support with the experiments.
+This work is supported by **MathWorks under the Development-Collaboration Research Grant**. We would like to thank Mike McLernon and Ethem Sozer for their continued support on this project. We would also like to thank Taylor Skilling for his support with the experiments.
 
 This code is licensed under the LGPLv3 license. Please feel free to use this simulator in your research and development works. We would appreciate a citation to the paper below when this module is helpful in obtaining results in your future publications: 
 
