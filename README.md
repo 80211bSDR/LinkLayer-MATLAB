@@ -10,6 +10,13 @@ The consistent performance of the two node (1 DTx and 1 DRx; essentially a bi-di
 
 The current work provides a testbed to experiment with and enables creation of new MAC protocols starting from the fundamental IEEE 802.11b compliant standard.
 
+This work is supported by MathWorks under the Development-Collaboration Research Grant. We would like to thank Mike McLernon and Ethem Sozer for their continued support on this project. We would also like to thank Taylor Skilling for his support with the experiments.
+
+This code is licensed under the LGPLv3 license. Please feel free to use this simulator in your research and development works. We would appreciate a citation to the paper below when this module is helpful in obtaining results in your future publications: 
+
+Publication for citation:
+Ramanathan Subramanian, Benjamin Drozdenko, Eric Doyle, Rameez Ahmed, Miriam Leeser, and Kaushik Chowdhury, "High-Level System Design of IEEE 802.11b Standard-Compliant Link Layer for MATLAB-based SDR", accepted on March 3rd, 2016 for publication in IEEE Access Journal.
+
 ## Hardware Setup
 <img src="hwsetup.jpg" width="600">
 
@@ -155,11 +162,3 @@ The folder `DTx` and `DRx` contain the code for the designated transmitter (DTx)
 
 Run `dtxPHYLayerVisual.m` at the DTx(s) and `drxPHYLayerVisual.m` at the DRx to trasmit an image from the DTx(s) each to the DRx.
 Run `dtxTestsuite.m` at the DTx(s) and `drxTestsuite.m` at the DRx to test the performance of the corresponding bi-directional link. Performance metrics are Packet Error Rate and Link Latency.
-
-### Acknowledgements
-
-This work is supported by MathWorks under the Development-Collaboration Research Grant A#: 1-945815398. We would like to thank Mike McLernon and Ethem Sozer for their continued support on this project. We would also like to thank Taylor Skilling for his support with the experiments.
-
-### License and Referencing
-
-This code is licensed under the LGPLv3 license. If you in any way happen to use this code for research that results in publications, please cite our work.
