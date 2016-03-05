@@ -1,6 +1,6 @@
-802.11bSDR
+LinkLayer-MATLAB
 ========================================================
-802.11bSDR is a IEEE 802.11b Standard Compliant Link Layer (PHY and MAC layer) for MATLAB-based SDR. The code is highly modular and is entirely written in MATLAB. See each file for further documentation. The default settings in the files work well with our N210s using WBX daughterboards.
+LinkLayer-MATLAB is a IEEE 802.11b Standard Compliant Link Layer (PHY and MAC layer) for MATLAB-based SDR. The code is highly modular and is entirely written in MATLAB. See each file for further documentation. The default settings in the files work well with our N210s using WBX daughterboards.
 
 We adopt the IEEE 802.11b PHY and MAC layer packet structure specifications in our implementation. Our approach collects all the bits in the packet in multiples of 8 octets, which forms one USRP frame. This makes it easy for us to work with the MATLAB system objects and with PHY and MAC header fields in the DATA/ACK packet that happen to have sizes that are multiples of 8 octets. Multiple USRP frames will compose the standard-compliant 802.11b packet.
 
