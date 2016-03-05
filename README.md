@@ -12,7 +12,7 @@ The current work provides a testbed to experiment with and enables creation of n
 
 This work is supported by **MathWorks under the Development-Collaboration Research Grant**. We would like to thank Mike McLernon and Ethem Sozer for their continued support on this project. We would also like to thank Taylor Skilling for his support with the experiments.
 
-This code is licensed under the LGPLv3 license. Please feel free to use this simulator in your research and development works. We would appreciate a citation to the paper below when this codebase is helpful in obtaining results in your future publications. 
+This code is licensed under the LGPLv3 license. Please feel free to use the code in your research and development works. We would appreciate a citation to the paper below when this code is helpful in obtaining results in your future publications. 
 
 **Publication for citation:**
 Ramanathan Subramanian, Benjamin Drozdenko, Eric Doyle, Rameez Ahmed, Miriam Leeser, and Kaushik Chowdhury, "*High-Level System Design of IEEE 802.11b Standard-Compliant Link Layer for MATLAB-based SDR*", accepted on March 3rd, 2016 for publication in IEEE Access Journal.
