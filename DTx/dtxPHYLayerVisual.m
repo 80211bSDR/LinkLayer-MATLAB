@@ -50,8 +50,8 @@ st  = uint8(uint8(111)); %prm.DTxStateEnergyDetDIFS
 smt = uint8(11); %DTxStateEnergyDet   %#ok<NASGU>
 % swapFreqFlag: set flag for trx, do not swap tx freq. with rx swap
 swapFreqFlag = 0;
-h=msgbox(['Welcome to the Three Node Demo!'],'Sending Image of Yoda..');
-            set(findobj(h,'style','pushbutton'),'Visible','off')
+h=msgbox(['Sending Image of Darth Vader..'],'Three Node Demo:');
+set(findobj(h,'style','pushbutton'),'Visible','off')
 % hft: Function Handle to transceive() function for this IP Address
 trx = eval(sprintf('@transceive%3d_mex',aip));
 
