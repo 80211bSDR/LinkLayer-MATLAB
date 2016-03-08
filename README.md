@@ -19,6 +19,8 @@ This code is licensed under the LGPLv3 license. Please feel free to use the code
 **Publication for citation:**<br>
 Ramanathan Subramanian, Benjamin Drozdenko, Eric Doyle, Rameez Ahmed, Miriam Leeser, and Kaushik Chowdhury, "*High-Level System Design of IEEE 802.11b Standard-Compliant Link Layer for MATLAB-based SDR*", accepted on March 3rd, 2016 for publication in IEEE Access Journal.
 
+[![Three-Node Visual Demo](thumbnail.jpg)](https://youtu.be/hE3nQmGtW1E)
+
 ## Hardware Setup
 <img src="hwsetup.jpg" width="600">
 
