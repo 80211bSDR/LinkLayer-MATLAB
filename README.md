@@ -23,7 +23,7 @@ Ramanathan Subramanian, Benjamin Drozdenko, Eric Doyle, Rameez Ahmed, Miriam Lee
 
 <a href="https://youtu.be/hE3nQmGtW1E" target="_blank"><img src="thumbnail.jpg" width="240" height="180" border="10" /></a>
 
-[![Three-Node Visual Demo]("thumbnail.jpg" width="240" height="180" border="10")](https://youtu.be/hE3nQmGtW1E)
+[![Three-Node Visual Demo]("thumbnail.jpg")](https://youtu.be/hE3nQmGtW1E width="240" height="180" border="10")
 
 ## Hardware Setup
 <img src="hwsetup.jpg" width="600">
