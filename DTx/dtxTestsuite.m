@@ -4,9 +4,8 @@
 % We would appreciate a citation to the paper below when this code is helpful in obtaining results in your future publications.
 
 % Publication for citation:
-% Ramanathan Subramanian, Benjamin Drozdenko, Eric Doyle, Rameez Ahmed, Miriam Leeser, and Kaushik Chowdhury, 
-% "High-Level System Design of IEEE 802.11b Standard-Compliant Link Layer for MATLAB-based SDR", accepted on March 3rd, 2016 
-% for publication in IEEE Access Journal.
+%R. Subramanian, B. Drozdenko, E. Doyle, R. Ahmed, M. Leeser and K. R. Chowdhury, "High-Level System Design of IEEE 802.11b Standard-Compliant Link Layer for MATLAB-Based SDR," in IEEE Access, vol. 4, no. , pp. 1494-1509, 2016.
+%doi: 10.1109/ACCESS.2016.2553671
 
 fix(clock)
 
